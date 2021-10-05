@@ -8,7 +8,7 @@
 
 🇧🇷 I'm from Brazil.
 
-👽 My portfolio is under construction, but you can check out a lot by looking at the README of the repositories
+🚧 My portfolio is under construction, but you can check out a lot by looking at the README of the repositories
 
 <br />
 
