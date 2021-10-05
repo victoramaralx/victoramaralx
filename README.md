@@ -1,5 +1,5 @@
 <samp>
-<img align='right' src='https://github.com/alinecbsr/alinecbsr/raw/master/hello.gif' width='300'>
+<img align='right' src='https://64.media.tumblr.com/tumblr_ma2dhq2hsu1qkb04po1_500.gifv' width='300'>
 <strong align="right">👋🏽  Hello world! </strong>
 <br />
 <br />
