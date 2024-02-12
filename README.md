@@ -46,7 +46,7 @@
     
   </a>
   <a
-    href="https://www.linkedin.com/in/victor-amaral-868888130/" 
+    href="https://www.linkedin.com/in/victoramaral13/" 
     alt="LinkedIn"
     target="blank"
   >
